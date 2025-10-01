@@ -1,5 +1,5 @@
-from bytex.structure_enum._structure_enum import (
+from ._structure_enum import (
     STRUCTURE_ENUM_CODEC_KEY,
     _StructureEnum,
 )
-from bytex.structure_enum.structure_enum import StructureEnum
+from .structure_enum import StructureEnum

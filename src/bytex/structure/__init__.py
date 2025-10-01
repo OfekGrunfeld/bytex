@@ -1,1 +1,1 @@
-from bytex.structure.structure import Structure
+from .structure import Structure
